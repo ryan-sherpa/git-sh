@@ -118,3 +118,7 @@ Copyright (C) 2006, 2007 [Shawn O. Pearce](mailto:spearce@spearce.org)
 This program is free software; you can redistribute it and/or modify it
 under the terms of the GNU General Public License, version 2, as published
 by the Free Software Foundation.
+
+<div style="padding: 0 1em; color: grey; border-left: 0.25em solid red;">
+  <p>Woot!</p>
+</div>
